@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Technical project" skipped="0" tests="1" time="50.08" timestamp="2021-11-29 06:59:36"><testcase name="registration in the system"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+co.com.choucair.proyetoPruebaCandidato.tasks.RegisterUser.performAs(RegisterUser.java:27)&#13;
+co.com.choucair.proyetoPruebaCandidato.stepdefinations.ProyectoTecnicoStepDefinations.enterAllTheAppropriateDataForUserRegistrationOnTheUtestPlatform(ProyectoTecnicoStepDefinations.java:29)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
